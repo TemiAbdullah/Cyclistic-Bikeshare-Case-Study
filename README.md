@@ -10,15 +10,14 @@ The Cyclistic bike-share capstone project is the final course of the Google Data
 ## Table of Contents
 <hr style="border:2px solid gray">
 
-- [About The Company](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#about-the-company)
-- [Introduction and Scenario](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#introduction-and-scenario)
-- [Asking Relevant Questions](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#ask)
-- [Preparing the Data](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#prepare)
-- [Processing the Data](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#process)
-- [Analyzing the Data](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#analyze)
-- [Sharing Findings](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#share)
-- [Act](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#act)
-- [Conclusion](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#conclusion)
+- About the Company
+- Introduction and Scenario
+- Asking Relevant QUestions
+- Preparing the Data
+- Analyzing the Data
+- Sharing Findings
+- Act
+- Conlusion
 
 <hr style="border:2px solid gray">
 
@@ -144,7 +143,12 @@ Findings are shared and communicated to the relevant stakeholders.
 The share phase for this project was completed using Rstudio and Tableau for visualizations. Microsoft PowerPoint was also used to prepare a presentation of the findings.
 
 Click [here](https://public.tableau.com/views/CyclisticProjectinprogress/Shareofridesformembersandcasualriders?:language=en-US&:display_count=n&:origin=viz_share_link) for tableau public visualizations. Dashboards created with the visualizations also present relevant information at a glance. 
-The first dashboard displays summary information 
+
+The first dashboard displays summary information about the data presented for the analysis. Such as the number of rides, average ride length and so on. 
+![](Cyclistic_BikeShare_Images/Dashboard_1.png)                      
+
+A second dashboard was also created to provide more in depth information about the riding habits of the casual and member riders. 
+![](Cyclistic_BikeShare_Images/Dashboard_2.png)
 
 
 
