@@ -61,7 +61,7 @@ The dataset contains some null values that were deleted and hence not used in th
 
 This phase of the analysis process includes cleaning the data and making sure it is fit for purpose. As well as making any modifications necessary.
 
-Rstudio was used for the data processing phase of this project. Click this link to view the full R markdown file. A summary of the cleaning and manipulation done to the data is presented below:
+Rstudio was used for the data processing phase of this project. Click this [link](http://rpubs.com/TemiAbdullah/927011) to view the full R markdown file. A summary of the cleaning and manipulation done to the data is presented below:
 
 1. Combined all twelve individual months into a single data frame called "Combined_Trips".
 2. Created new columns to extract the day, month, year and day of the week of each ride entry.
