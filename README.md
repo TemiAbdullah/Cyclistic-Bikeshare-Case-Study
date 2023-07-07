@@ -55,11 +55,11 @@ Three questions will guide the future marketing program:
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
-### Business Task
+#### Business Task
 
 The task assigned to the junior analyst is to figure out how annual members and casual riders use Cyclistic bikes differently.
 
-### Key Stakeholders
+#### Key Stakeholders
 
 Lily Moreno: The director of marketing and your manager. Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program. These may include email, social media, and other channels.
 
@@ -74,19 +74,19 @@ Cyclistic executive team: The notoriously detail-oriented executive team will de
 
 Involves collecting data and information and ensuring it satisfies necessary parameters.
 
-### Data location, licensing and privacy
+#### Data location, licensing and privacy
 
 The data has been made available by Motivate International Inc. at this [link](https://medium.com/r/?url=https%3A%2F%2Fdivvy-tripdata.s3.amazonaws.com%2Findex.html) under this [license](https://medium.com/r/?url=https%3A%2F%2Fride.divvybikes.com%2Fdata-license-agreement). For privacy purposes riders personally identifiable information has been excluded from the data.
 
-### Data Organization
+#### Data Organization
 
 The data used for this analysis is the past 12 months from June 2021 to May 2022. Each month contains hundreds of thousands of rows and 13 columns.
 
-### Bias and Credibility
+#### Bias and Credibility
 
 The data satisfies the ROCCC standard which means that it is reliable, original, comprehensive, current and cited.
 
-### Data Limitations
+#### Data Limitations
 
 The dataset contains some null values that were deleted and hence not used in the analysis.
 
