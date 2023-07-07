@@ -3,19 +3,49 @@
 ![](Cyclistic_BikeShare_Images/Logo.png)
 
 The Cyclistic bike-share capstone project is the final course of the Google Data Analytics certificate that I recently concluded. In this project I have applied the tools I acquired over the course of the study- including R, Tableau and PowerPoint- to solve a real world scenario.
----
+
+
+<hr style="border:2px solid gray">
+
+## Table of Contents
+<hr style="border:2px solid gray">
+
+- [About The Company](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#about-the-company)
+- [Introduction and Scenario](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#introduction-and-scenario)
+- [Asking Relevant Questions](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#ask)
+- [Preparing the Data](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#prepare)
+- [Processing the Data](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#process)
+- [Analyzing the Data](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#analyze)
+- [Sharing Findings](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#share)
+- [Act](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#act)
+- [Conclusion](https://github.com/TemiAbdullah/Data-Analysis-Case-Studies/edit/main/README.md#conclusion)
+
+<hr style="border:2px solid gray">
 
 ## About the Company
+<hr style="border:2px solid gray">
 
 Cyclistic is a successful bike-sharing company with a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations in Chicago. Cyclistic’s marketing strategy has previously relied on building general awareness and appealing to broad consumer segments. Such as though the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members. Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers, Moreno believes that maximizing the number of annual members will be key to future growth. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a very good chance to convert casual riders into members. She notes that casual riders are already aware of the Cyclistic program and have chosen Cyclistic for their mobility needs.
 
+<hr style="border:2px solid gray">
+
 ## Introduction and Scenario
+<hr style="border:2px solid gray">
 
 “You are a junior data analyst working in the marketing analyst team at Cyclistic. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.”
 
-This project will follow the steps of the data analysis process: ask, prepare, process, analyze, share, and act.
+This project will follow the steps of the data analysis process: 
+- Ask
+- Prepare
+- Process
+- Analyze
+- Share
+- Act.
+
+<hr style="border:2px solid gray">
 
 ## Ask
+<hr style="border:2px solid gray">
 
 This phase involves defining the issue to be solved, identifying stakeholders and what their expectations from the project are.
 
@@ -37,7 +67,10 @@ Cyclistic marketing analytics team: A team of data analysts who are responsible 
 
 Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
 
+<hr style="border:2px solid gray">
+
 ## Prepare
+<hr style="border:2px solid gray">
 
 Involves collecting data and information and ensuring it satisfies necessary parameters.
 
@@ -57,7 +90,10 @@ The data satisfies the ROCCC standard which means that it is reliable, original,
 
 The dataset contains some null values that were deleted and hence not used in the analysis.
 
+<hr style="border:2px solid gray">
+
 ## Process
+<hr style="border:2px solid gray">
 
 This phase of the analysis process includes cleaning the data and making sure it is fit for purpose. As well as making any modifications necessary.
 
@@ -73,7 +109,10 @@ Rstudio was used for the data processing phase of this project. Click this [link
 8. Created a new data frame where the "started_at" and "ended_at" locations were combined to get an aggregate route of each ride/trip.
 9. Ordered the months from June 2021 to May 2022 and the days of the week from Sunday to Saturday.
 
+<hr style="border:2px solid gray">
+
 ## Analyze
+<hr style="border:2px solid gray">
 
 Analyzing the data to find patterns, relationships and trends.
 
@@ -95,28 +134,38 @@ Rstudio was used for the data analysis phase of this project. Click this [link](
 
 ![](Cyclistic_BikeShare_Images/Number_of-Rides_by_Rideable_Type.png) 
 
+<hr style="border:2px solid gray">
+
 ## SHARE
+<hr style="border:2px solid gray">
 
 Findings are shared and communicated to the relevant stakeholders.
 
 The share phase for this project was completed using Rstudio and Tableau for visualizations. Microsoft PowerPoint was also used to prepare a presentation of the findings.
 
-Click [here](https://public.tableau.com/views/CyclisticProjectinprogress/Shareofridesformembersandcasualriders?:language=en-US&:display_count=n&:origin=viz_share_link) for tableau public visualizations. Dashboards created with the visualizations also present relevant information at a glance.
+Click [here](https://public.tableau.com/views/CyclisticProjectinprogress/Shareofridesformembersandcasualriders?:language=en-US&:display_count=n&:origin=viz_share_link) for tableau public visualizations. Dashboards created with the visualizations also present relevant information at a glance. 
+The first dashboard displays summary information 
 
-![](Cyclistic_BikeShare_Images/Dashboard_1.png)                      
-![](Cyclistic_BikeShare_Images/Dashboard_2.png)
+
 
 Click [here](https://1drv.ms/p/s!AgXANZPWFO1_gmgjkT644_gGZ2YK) for the Powerpoint Presentation. 
 
+<hr style="border:2px solid gray">
+
 ## Act
+<hr style="border:2px solid gray">
+
 After the data has been processed, analyzed and insights have been shared, the final phase is to recommend a plan of action for the bikeshare company in line with their business task and objectives. My recommendations are:
 1. Cyclistic already has single ride and full day passes, but it could be worth it to introduce a new monthly/seasonal plan for riders. The data shows that the number of rides casual riders go on is greatly affected by the season or the weather. Many rides in the summer from June to September and very few rides in the winter from November to February. Cyclistic can offer free membership for a full month to any casual riders that are interested in the service. It would be best to do this in the winter months where riders don't use the service as much. If they enjoy the perks of a full membership in these months or seasons, it could convince them to subscribe for more months and ultimately purchase a full annual membership.
 2. Another way to convert casual riders into full time members could be targeted physical ads and campaigns. The data extracted from the past 12 months gives us insight into the most frequently used start and end stations used by casual riders as well as the routes they use on their rides. Billboards and posters are a lot more useful if the company already knows exactly where the target audience will be.
 3. Cylistic can provide financial incentives for member riders and start a campaign that shows how subscribing for a full year is cheaper in the long run than subscribing only for the days in the summer months like casual riders usually do. They could also provide coupons or bonuses that encourage even more frequent rides. An example of one such incentive could be a weekly scoreboard showing the number of rides and ride length for each casual rider that chooses to participate with the winner at the end of the month getting a seasonal pass or annual membership as a reward. If casual riders can be convinced to take the bike out more frequently every week, they will ultimately see the benefit in simply subscribing to a full plan that allows them use it whenever they like.
 
-## Conclusion
+<hr style="border:2px solid gray">
 
-Over the course of this project, I have been able to use a variety of tools to clean, process, analyze and visualize data, as well as draw meaningful insights from it in line with the Google Data Analytics Certification.
+## Conclusion
+<hr style="border:2px solid gray">
+
+Over the course of this project, I have been able to demonstrate my ability as a data analyst by using a variety of tools to clean, process, analyze and visualize data, as well as draw meaningful insights from it in line with the requirments Google Data Analytics Certification.
 Feedback on this article and the processes used would be greatly appreciated.
 
 
