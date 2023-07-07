@@ -10,25 +10,26 @@ The Cyclistic bike-share capstone project is the final course of the Google Data
 ## Table of Contents
 <hr style="border:2px solid gray">
 
-- About the Company
-- Introduction and Scenario
-- Asking Relevant QUestions
-- Preparing the Data
-- Analyzing the Data
-- Sharing Findings
-- Act
-- Conlusion
+- [About the Company](#about)
+- [Introduction and Scenario](#introduction)
+- [Asking Relevant Questions](#ask)
+- [Preparing the Data](#prepare)
+- [Analyzing the Data](#analyze)
+- [Sharing Findings](#share)
+- [Suggested Course of Action](#act)
+- [Conlusion](#conclusion)
 
 <hr style="border:2px solid gray">
 
-## About the Company
+## About the Company <a name="about"></a>
+
 <hr style="border:2px solid gray">
 
 Cyclistic is a successful bike-sharing company with a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations in Chicago. Cyclistic’s marketing strategy has previously relied on building general awareness and appealing to broad consumer segments. Such as though the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members. Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers, Moreno believes that maximizing the number of annual members will be key to future growth. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a very good chance to convert casual riders into members. She notes that casual riders are already aware of the Cyclistic program and have chosen Cyclistic for their mobility needs.
 
 <hr style="border:2px solid gray">
 
-## Introduction and Scenario
+## Introduction and Scenario <a name="introduction"></a>
 <hr style="border:2px solid gray">
 
 “You are a junior data analyst working in the marketing analyst team at Cyclistic. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.”
@@ -43,7 +44,7 @@ This project will follow the steps of the data analysis process:
 
 <hr style="border:2px solid gray">
 
-## Ask
+## Ask <a name="ask"></a>
 <hr style="border:2px solid gray">
 
 This phase involves defining the issue to be solved, identifying stakeholders and what their expectations from the project are.
@@ -68,7 +69,7 @@ Cyclistic executive team: The notoriously detail-oriented executive team will de
 
 <hr style="border:2px solid gray">
 
-## Prepare
+## Prepare <a name="prepare"></a>
 <hr style="border:2px solid gray">
 
 Involves collecting data and information and ensuring it satisfies necessary parameters.
@@ -91,7 +92,7 @@ The dataset contains some null values that were deleted and hence not used in th
 
 <hr style="border:2px solid gray">
 
-## Process
+## Process <a name="process"></a>
 <hr style="border:2px solid gray">
 
 This phase of the analysis process includes cleaning the data and making sure it is fit for purpose. As well as making any modifications necessary.
@@ -110,7 +111,7 @@ Rstudio was used for the data processing phase of this project. Click this [link
 
 <hr style="border:2px solid gray">
 
-## Analyze
+## Analyze <a name="analyze"></a>
 <hr style="border:2px solid gray">
 
 Analyzing the data to find patterns, relationships and trends.
@@ -135,7 +136,7 @@ Rstudio was used for the data analysis phase of this project. Click this [link](
 
 <hr style="border:2px solid gray">
 
-## SHARE
+## SHARE <a name="share"></a>
 <hr style="border:2px solid gray">
 
 Findings are shared and communicated to the relevant stakeholders.
@@ -156,7 +157,7 @@ Click [here](https://1drv.ms/p/s!AgXANZPWFO1_gmgjkT644_gGZ2YK) for the Powerpoin
 
 <hr style="border:2px solid gray">
 
-## Act
+## Act <a name="act"></a>
 <hr style="border:2px solid gray">
 
 After the data has been processed, analyzed and insights have been shared, the final phase is to recommend a plan of action for the bikeshare company in line with their business task and objectives. My recommendations are:
@@ -166,7 +167,7 @@ After the data has been processed, analyzed and insights have been shared, the f
 
 <hr style="border:2px solid gray">
 
-## Conclusion
+## Conclusion <a name="conclusion"></a>
 <hr style="border:2px solid gray">
 
 Over the course of this project, I have been able to demonstrate my ability as a data analyst by using a variety of tools to clean, process, analyze and visualize data, as well as draw meaningful insights from it in line with the requirments Google Data Analytics Certification.
